@@ -1,0 +1,7 @@
+{
+  "env": {
+    "userName": "Ezra",
+    "password": "Ovechkinccm8",
+    "JWT_KEY": "secret"
+  }
+}
